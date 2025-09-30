@@ -1,0 +1,130 @@
+{
+  "2021": {
+    "matches": [
+      {
+        "matchId": "1",
+        "rank": 1,
+        "points": 50,
+        "image": "/logos/team_logo.png",
+        "name": "Team One"
+      },
+      {
+        "matchId": "2",
+        "rank": 2,
+        "points": 45,
+        "image": "/logos/team_2.png",
+        "name": "Team Two"
+      },
+      {
+        "matchId": "3",
+        "rank": 3,
+        "points": 40,
+        "image": "/logos/team_3.png",
+        "name": "Team Three"
+      },
+      {
+        "matchId": "4",
+        "rank": 4,
+        "points": 35,
+        "image": "/logos/team_4.png",
+        "name": "Team Four"
+      }
+    ]
+  },
+  "2022": {
+    "matches": [
+      {
+        "matchId": "1",
+        "rank": 1,
+        "points": 55,
+        "image": "/logos/team_2.png",
+        "name": "Team Two"
+      },
+      {
+        "matchId": "2",
+        "rank": 2,
+        "points": 50,
+        "image": "/logos/team_3.png",
+        "name": "Team Three"
+      },
+      {
+        "matchId": "3",
+        "rank": 3,
+        "points": 48,
+        "image": "/logos/team_logo.png",
+        "name": "Team One"
+      },
+      {
+        "matchId": "4",
+        "rank": 4,
+        "points": 42,
+        "image": "/logos/team_4.png",
+        "name": "Team Four"
+      }
+    ]
+  },
+  "2023": {
+    "matches": [
+      {
+        "matchId": "1",
+        "rank": 1,
+        "points": 60,
+        "image": "/logos/team_3.png",
+        "name": "Team Three"
+      },
+      {
+        "matchId": "2",
+        "rank": 2,
+        "points": 55,
+        "image": "/logos/team_logo.png",
+        "name": "Team One"
+      },
+      {
+        "matchId": "3",
+        "rank": 3,
+        "points": 49,
+        "image": "/logos/team_4.png",
+        "name": "Team Four"
+      },
+      {
+        "matchId": "4",
+        "rank": 4,
+        "points": 45,
+        "image": "/logos/team_2.png",
+        "name": "Team Two"
+      }
+    ]
+  },
+  "2024": {
+    "matches": [
+      {
+        "matchId": "1",
+        "rank": 1,
+        "points": 62,
+        "image": "/logos/team_4.png",
+        "name": "Team Four"
+      },
+      {
+        "matchId": "2",
+        "rank": 2,
+        "points": 60,
+        "image": "/logos/team_logo.png",
+        "name": "Team One"
+      },
+      {
+        "matchId": "3",
+        "rank": 3,
+        "points": 52,
+        "image": "/logos/team_2.png",
+        "name": "Team Two"
+      },
+      {
+        "matchId": "4",
+        "rank": 4,
+        "points": 48,
+        "image": "/logos/team_3.png",
+        "name": "Team Three"
+      }
+    ]
+  }
+}

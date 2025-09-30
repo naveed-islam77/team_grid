@@ -1,0 +1,170 @@
+[
+  {
+    "teamId": "1",
+    "teamName": "Leeds United",
+    "logo": "/logos/team_logo.png",
+    "performance": [
+      {
+        "season": "2024+",
+        "league": "Premier League",
+        "league_logo": "/logos/league_1.png",
+        "rank": 1,
+        "points": 50
+      },
+      {
+        "season": "2023+",
+        "league": "Premier League",
+        "league_logo": "/logos/league_1.png",
+        "rank": 14,
+        "points": 44
+      },
+      {
+        "season": "2022+",
+        "league": "Premier League",
+        "league_logo": "/logos/league_2.webp",
+        "rank": 10,
+        "points": 53
+      },
+      {
+        "season": "2021+",
+        "league": "Championship",
+        "league_logo": "/logos/league_1.png",
+        "rank": 15,
+        "points": 38
+      },
+      {
+        "season": "2020+",
+        "league": "Premier League",
+        "league_logo": "/logos/league_2.webp",
+        "rank": 9,
+        "points": 59
+      },
+      {
+        "season": "2019+",
+        "league": "Championship",
+        "league_logo": "/logos/league_3.webp",
+        "rank": 1,
+        "points": 96
+      },
+      {
+        "season": "2018+",
+        "league": "Championship",
+        "league_logo": "/logos/league_3.webp",
+        "rank": 5,
+        "points": 79
+      },
+      {
+        "season": "2017+",
+        "league": "Premier League",
+        "league_logo": "/logos/league_1.png",
+        "rank": 13,
+        "points": 46
+      },
+      {
+        "season": "2016+",
+        "league": "Premier League",
+        "league_logo": "/logos/league_2.webp",
+        "rank": 15,
+        "points": 41
+      },
+      {
+        "season": "2015+",
+        "league": "Championship",
+        "league_logo": "/logos/league_3.webp",
+        "rank": 7,
+        "points": 88
+      }
+    ]
+  },
+  {
+    "teamId": "2",
+    "teamName": "Manchester City",
+    "logo": "/logos/team_2.png",
+    "performance": [
+      {
+        "season": "2021+",
+        "league": "Premier League",
+        "league_logo": "/logos/league_4.webp",
+        "rank": 1,
+        "points": 93
+      },
+      {
+        "season": "2020+",
+        "league": "Premier League",
+        "league_logo": "/logos/league_3.webp",
+        "rank": 1,
+        "points": 86
+      },
+      {
+        "season": "2019+",
+        "league": "Premier League",
+        "league_logo": "/logos/league_2.webp",
+        "rank": 2,
+        "points": 81
+      }
+    ]
+  },
+  {
+    "teamId": "3",
+    "teamName": "Arsenal",
+    "logo": "/logos/team_3.png",
+    "performance": [
+      {
+        "season": "2021+",
+        "league": "Premier League",
+        "league_logo": "/logos/league_1.png",
+        "rank": 5,
+        "points": 69
+      },
+      {
+        "season": "2020+",
+        "league": "Premier League",
+        "league_logo": "/logos/league_4.webp",
+        "rank": 8,
+        "points": 61
+      },
+      {
+        "season": "2019+",
+        "league": "Premier League",
+        "league_logo": "/logos/league_3.webp",
+        "rank": 8,
+        "points": 56
+      }
+    ]
+  },
+  {
+    "teamId": "4",
+    "teamName": "Norwich City",
+    "logo": "/logos/team_4.png",
+    "performance": [
+      {
+        "season": "2021+",
+        "league": "Premier League",
+        "league_logo": "/logos/league_4.webp",
+        "rank": 6,
+        "points": 22
+      },
+      {
+        "season": "2020+",
+        "league": "Championship",
+        "league_logo": "/logos/league_1.png",
+        "rank": 1,
+        "points": 97
+      },
+      {
+        "season": "2019+",
+        "league": "Premier League",
+        "league_logo": "/logos/league_2.webp",
+        "rank": 20,
+        "points": 21
+      },
+      {
+        "season": "2018+",
+        "league": "Championship",
+        "league_logo": "/logos/league_2.webp",
+        "rank": 8,
+        "points": 31
+      }
+    ]
+  }
+]
